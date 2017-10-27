@@ -17,6 +17,6 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/Gruveo/gruveo-ios-webrtc.git", :tag => s.version }
 
-  s.vendored_frameworks = "WebRTC/WebRTC.framework"
+  s.vendored_frameworks = "WebRTC.framework"
 
 end
