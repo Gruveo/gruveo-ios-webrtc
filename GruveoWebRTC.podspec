@@ -1,13 +1,13 @@
 Pod::Spec.new do |s|
   s.name         = "GruveoWebRTC"
 
-  s.version      = "1.59"
+  s.version      = "1.59.19"
 
   s.summary      = "WebRTC framework specially builded for GruveoSDK framework integration"
 
   s.description  = "WebRTC is a free, open project that provides browsers and mobile applications with Real-Time Communications (RTC) capabilities via simple APIs."
 
-  s.homepage     = "https://webrtc.org"
+  s.homepage     = "https://github.com/Gruveo/gruveo-ios-webrtc"
 
   s.license      = { :type => "Multiple", :file => "LICENSE.md" }
 
