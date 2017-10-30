@@ -3,6 +3,8 @@ This pod contains the WebRTC iOS SDK in binary form built from the official WebR
 
 Unlike the [GoogleWebRTC](https://cocoapods.org/pods/GoogleWebRTC) pod, which is built from tip-of-tree, this pod is built from release branches of WebRTC that correspond to Chrome milestones.
 
+The versioning system used is `1.XX.YY`, which corresponds to `Cr-Commit-Position: refs/branch-heads/XX@{#YY}` in the WebRTC repository.
+
 ## Installation
 To integrate the WebRTC SDK into your XCode project, add the following to your Podfile:
 
