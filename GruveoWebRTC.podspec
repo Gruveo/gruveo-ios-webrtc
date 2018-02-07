@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
 
   s.version      = "1.59.19"
 
-  s.summary      = "WebRTC framework specially builded for GruveoSDK framework integration"
+  s.summary      = "WebRTC iOS framework built from the official WebRTC repository"
 
   s.description  = "WebRTC is a free, open project that provides browsers and mobile applications with Real-Time Communications (RTC) capabilities via simple APIs."
 
