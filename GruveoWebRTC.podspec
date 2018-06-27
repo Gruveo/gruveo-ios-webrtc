@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "GruveoWebRTC"
 
-  s.version      = "1.65"
+  s.version      = "1.65.25.1"
 
   s.summary      = "WebRTC iOS framework built from the official WebRTC repository"
 
